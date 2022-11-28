@@ -8,4 +8,4 @@ Memebuat class abstract pada BangunDatar.java
 
 2. Hasil dari program yang sudah dibuat :
 
-![Gambar 1](screenshot/ss.png)
+![Gambar 1](screenshot/screenshot.png)
