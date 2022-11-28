@@ -4,7 +4,7 @@
 
 1. BangunDatar.java :
 
-Memebuat class abstract pada BangunDatar.java
+Membuat class abstract pada BangunDatar.java
 
 2. Hasil dari program yang sudah dibuat :
 
